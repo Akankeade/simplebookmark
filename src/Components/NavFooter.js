@@ -1,5 +1,4 @@
 import React from 'react'
-import logo1 from '../images/logo-bookmark.svg'
 import facebook from '../images/icon-facebook.svg'
 import twitter from '../images/icon-twitter.svg'
 import bookmark from '../images/bookmark.svg'

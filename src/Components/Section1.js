@@ -12,12 +12,10 @@ export const Section1 = () => {
                 <div class="display-3">A Simple Bookmark <br /> Manager</div>
               </h1>
               <p>A clean and simple interface to organize your favourite website. Open a new browser tab and see your sites load instantly.</p>
-
-              
                 
-                 <button className='pricing mx-5'><a href="#">Get it on chrome</a></button>
+                 <button className='pricing mx-5'>Get it on chrome</button>
                 
-                <button className='firefox'><a class="#">Get in on firefox</a></button>    
+                <button className='firefox'>Get in on firefox</button>    
 
             </div>
 

@@ -13,39 +13,6 @@
   }
 }
 
-/* .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-} */
-
-/* #p{
-  border-bottom: 2px solid red;
-  margin: 3px;
-} */
-
-.pricing a{
-  text-decoration: none;
-  color: black;
-}
 
 .home:hover{
     color: palevioletred;
@@ -57,6 +24,7 @@
   border-radius: 5px;
   background-color: white;
   transition: 0.5s;
+  cursor: pointer;
 }
 
 .pricing:hover{
@@ -64,16 +32,15 @@
   border: 2px solid blue;
 }
 
-.firefox a{
-  text-decoration: none;
-  color: blue;
-}
+
 
 .firefox{
   border: 2px solid blue;
   padding: 7px 12px;
   border-radius: 5px;
   background-color: white;
+  color: blue;
+  cursor: pointer;
 }
 
 .firefox:hover{
