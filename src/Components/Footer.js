@@ -24,28 +24,7 @@ const Footer = () => {
                       
             </div>
 
-
-              {/* <div className="row justify-content-center align-items-center">
-              <div className="col-sm-8 col-lg-4 col-xl-8">
-                   <nav className='navbar'>
-                      <img src={logo1} alt="" />
-
-                      <ul>
-                        <li>Features</li>
-                        <li>Pricing</li>
-                        <li>Contact</li>
-                      </ul>
-
-                      <div className="img">
-                        <img src={facebook} alt="" />
-                        <img src={twitter} alt="" />
-                      </div>
-
-                    </nav>
-                      
-                </div>
-
-              </div> */}
+           
 
         </div>
     </div>
